@@ -1,0 +1,5 @@
+java -version
+javac -version
+
+javac --release 17 -cp src src\TaskTribeApp.java
+java -cp src TaskTribeApp
